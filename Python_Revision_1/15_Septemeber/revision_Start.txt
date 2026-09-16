@@ -1,1 +1,5 @@
-
+Starting phase 1 revision with : 
+1. syntax
+2. code
+3. practice questions
+4. logics
