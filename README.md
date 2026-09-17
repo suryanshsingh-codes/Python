@@ -68,7 +68,7 @@ Variables • Data Types • Operators • Conditionals • Loops • Functions 
 
 <p align="center">CRUD file operations in Python + Web.</p>
 
-<a href="https://suryanshsingh-codes.github.io/FileHandlingInPython/index.html">
+<a href="https://suryanshsingh-codes.github.io/FileHandlingProject/">
 <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
