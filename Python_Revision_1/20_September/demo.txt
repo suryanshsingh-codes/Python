@@ -1,0 +1,4 @@
+Hello Surya
+Welcome to File Handling
+Python is awesome
+This line was appended later
